@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head lang="eng">
+     <meta charset="utf8">
+<title><page1 class="html"></page1></title>
+<body>
+<h1>titre de niveau 1</h1>
+<h2>titre de niveau2</h2>
+<P>titre niveau 3</P>
+<b>titre niveau2</b>
+<h3 style="color: red">titre niveau2</h3>
+<h4>titre de niveau 1</h4>
+<p style="color:aqua">:)</p>
+</body>
+    </head>
+</html>
